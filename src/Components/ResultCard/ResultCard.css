@@ -1,0 +1,26 @@
+.result-card-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  font-family: fantasy;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-ele {
+  margin-bottom: 20px;
+}
+
+.search-button {
+  background: #93a9e7;
+  width: 50%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px #8ebbe9;
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
